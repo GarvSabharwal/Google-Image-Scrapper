@@ -1,0 +1,2 @@
+E:\gs\c App\Pretesting\Pretesting\obj\Debug\Pretesting.njsprojResolveAssemblyReference.cache
+E:\gs\c App\Pretesting\Pretesting\bin\Microsoft.NodejsTools.WebRole.dll

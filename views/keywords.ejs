@@ -1,0 +1,14 @@
+﻿<html>
+		    
+			<body>
+			<table>
+			
+			<tr><th>keywords</th></tr>
+
+			<% students.forEach( function( student ) { %>
+								<tr><td><a href="/searched_images?keyword=<%= student.keyword_value %>"><%= student.keyword_value %></a></td></tr>
+						<% }) %>
+			</body>
+
+</html>					
+		
