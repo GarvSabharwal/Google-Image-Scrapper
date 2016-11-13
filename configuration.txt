@@ -1,0 +1,7 @@
+database_name:keywords_database;
+
+table_name: keywords_table;
+
+column_name: keyword_value;
+
+and change the database as per your requirement  in mysqlconfiguration.js file stored in server folder. 
