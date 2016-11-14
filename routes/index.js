@@ -18,7 +18,10 @@ router.post('/search', function (req, res) {
 
         var search = require("../search.js");
         search.searchKeyword(keyword, function ()
-        { res.render('index'); }
+        { 
+			
+		
+		res.render('index'); }
 
         );
         

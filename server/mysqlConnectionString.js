@@ -9,7 +9,7 @@ var mysqlConnectionString = {
         {
         host: "localhost",
         user: "root",
-        password: "abcd",
+        password: "garv@1994",
         database: "keywords_database"
 
 

@@ -16,6 +16,7 @@
     "ejs": "^2.5.2",
     "express": "~4.9.0",
     "google-images-scraper": "^1.0.9",
+    "jimp": "^0.2.27",
     "morgan": "~1.3.0",
     "mysql": "^2.12.0",
     "serve-favicon": "~2.1.3",
